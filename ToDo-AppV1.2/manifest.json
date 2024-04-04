@@ -1,0 +1,16 @@
+{
+  "name": "TodoAppRodri",
+  "short_name": "app",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fdfdfd",
+  "theme_color": "#4938db",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
